@@ -1,5 +1,7 @@
-# phpword
+<?php
 
+//引入公共文件
+require '../common.php';
 require 'WordHelper.php';
 
 
